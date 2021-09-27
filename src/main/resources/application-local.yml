@@ -15,9 +15,3 @@ spring:
   output:
     ansi:
       enabled: always
-kafka:
-  bootstrapServers: localhost:9092
-  topic: roleTopic
-cpfService:
-  enabled: true
-  url: https://user-info.herokuapp.com/users/
