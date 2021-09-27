@@ -1,5 +1,6 @@
 package com.marvin.roleservice.service;
 
+import com.marvin.roleservice.domain.Member;
 import com.marvin.roleservice.domain.Role;
 
 /**
@@ -22,5 +23,10 @@ public interface RoleService {
      * @return {@link Role} retrieved.
      */
     Role searchRole(String roleId);
+
+    /**
+     * Inserts a {@link Member} to the {@link Role}.
+     */
+    void insertMember(String roleId, Member member);
 
 }

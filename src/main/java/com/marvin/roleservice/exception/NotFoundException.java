@@ -1,7 +1,7 @@
 package com.marvin.roleservice.exception;
 
 /**
- * Exception para quando uma entidade não é encontrada.
+ * Exception for when an entity is not found.
  */
 public class NotFoundException extends RuntimeException {
 
