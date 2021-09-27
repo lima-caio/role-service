@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Starting point of the service.
  */
-@SpringBootApplication
 @SuppressWarnings("PMD.UseUtilityClass")
+@SpringBootApplication
 public class RoleServiceApplication {
 
     /**
