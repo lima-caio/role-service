@@ -1,6 +1,7 @@
-# Backend Exercise for e-Core and tempo.io interview
+# Role-Service SpringBoot + MongoDB Application (Dockerized)
 
-This repository provides a solution proposal for the [exercise](src/main/resources/TEMPO%20-%20Back-end%20developer%20exercise.pdf) using Spring Boot and MongoDB in docker containers.
+Simple application to maintain Team Member Roles. <br>
+Teams and Users are not managed by this service, only data is consumed.
 
 ## Architecture
 
