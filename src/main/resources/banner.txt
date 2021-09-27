@@ -1,0 +1,4 @@
+
+${AnsiColor.BLUE}           Role Service
+
+${AnsiColor.BLUE}:: Spring Boot :: ${spring-boot.formatted-version}
